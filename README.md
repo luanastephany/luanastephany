@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luanastephany
+- 🤘 Hi, I’m @luanastephany
 - 👀 I’m interested in learning to code
 - 📖 I’m currently learning HTML, CSS, JS and React
 
