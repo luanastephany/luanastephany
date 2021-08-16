@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🤘 Hi, I’m @luanastephany
-- 📖 I’m currently learning HTML, CSS, JS and React
+- 📖 I’m currently learning JS, React (Frontend) and NodeJs (backend)
