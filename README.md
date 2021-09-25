@@ -9,4 +9,5 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🤘 Hi, I’m @luanastephany
-- 📖 I’m currently learning JS, React (Frontend) and NodeJs (backend)
+- 📖 Lover of technology and coding
+- Frontend developer
