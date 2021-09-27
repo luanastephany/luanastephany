@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 
 - 🤘 Hi, I’m @luanastephany
 - 📖 Lover of technology and coding
-- Frontend developer
+- Frontend developer, UI/UX lover
+- Focuses on JavaScript, Typescript and React
