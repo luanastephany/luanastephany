@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 - Frontend developer
 - Skills: HTML, CSS, JavaScript, ReactJs, Sass, npm and Typescript
 - Learning: Node, React Native
-
 - Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany-aa012b204/)
 
 
