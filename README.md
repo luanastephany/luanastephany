@@ -9,6 +9,13 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🤘 Hi, I’m @luanastephany
-- 📖 Lover of technology and coding
-- Frontend developer, UI/UX lover
-- Focuses on JavaScript, Typescript and React
+- Frontend developer
+
+Skills: HTML, CSS, JavaScript, ReactJs, Sass, npm and Typescript
+Learning: Node, React Native
+
+Reach me: ls.luanastephany@gmail.com
+
+
+
+
