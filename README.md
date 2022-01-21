@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 - 🤘 Hi, I’m @luanastephany
 - Frontend developer
-- Skills: HTML, CSS, JavaScript, ReactJs, Sass, npm and Typescript
-- Learning: Node, React Native
-- Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany-aa012b204/)
+- Developer Skills: HTML, JavaScript, ReactJS, Typescript, NPM and Git/Github
+- Design Skills: CSS3, Sass, Styled-componentes, Photoshop, Figma
+- Currently learning: Node, React Native
+- Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany-aa012b204/) | [Portfolio](https://luanastephany.netlify.app/)
 
 
 
