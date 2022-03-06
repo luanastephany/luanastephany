@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - Developer Skills: HTML, JavaScript, ReactJS, Typescript, NPM and Git/Github
 - Design Skills: CSS3, Sass, Styled-componentes, Photoshop, Figma
 - Currently learning: Node, React Native
-- Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany-aa012b204/) | [Portfolio](https://luanastephany.netlify.app/)
+- Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany/) | [Portfolio](https://luanastephany.netlify.app/)
 
 
 
