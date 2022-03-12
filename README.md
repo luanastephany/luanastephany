@@ -1,4 +1,4 @@
-![capagithub](https://user-images.githubusercontent.com/70078964/120085286-4128cc00-c0ad-11eb-9789-1fcaca69891b.png)
+![Frontend Developer](https://user-images.githubusercontent.com/70078964/158038590-6b6334fd-81df-4b4a-aad2-7740f7db74dd.png)
 
 <!---
 luanastephany/luanastephany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
