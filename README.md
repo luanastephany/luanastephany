@@ -15,5 +15,7 @@ You can click the Preview link to take a look at your changes.
 - Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany/) | [Portfolio](https://luanastephany.netlify.app/)
 
 
+##
 
-
+ <a href = "mailto:ls.luanastephany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luana-stephany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
