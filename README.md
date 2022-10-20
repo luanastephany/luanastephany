@@ -5,8 +5,6 @@ luanastephany/luanastephany is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanastephany&hide=html&layout=compact&theme=buefy" /><br/>  
-
 - Hi, I’m Luana! I'm a frontend developer currently based in Vancouver, Canada. 
 - Reach me: ls.luanastephany@gmail.com | [LinkedIn](https://www.linkedin.com/in/luana-stephany/) | [Portfolio](https://luanastephany.netlify.app/)
 
